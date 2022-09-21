@@ -1,3 +1,3 @@
 # zip_zopperson
 
-Whatsapp utilizando Flutter e Firebase
+A chat app built with Flutter and Firebase
